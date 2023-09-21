@@ -1,5 +1,5 @@
 # DadJokes
-You click on this google chrome extension to get a random Joke every time 😂
+You click on this google chrome extension to get a random Joke every time 😀
 
 A "Dad Joke" Chrome extension could potentially work by:
 
